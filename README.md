@@ -1,4 +1,4 @@
-<img align="right" width="400" height="320" src=https://i.pinimg.com/originals/f3/05/b5/f305b5a3b918052d0013b6fa98877dfc.gif>
+<img align="right" width="400" height="300" src=https://i.pinimg.com/originals/f3/05/b5/f305b5a3b918052d0013b6fa98877dfc.gif>
 
 # Welcome! :pushpin:	
 
