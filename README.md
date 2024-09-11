@@ -11,7 +11,7 @@
  At the moment I am focused on learning new things and gaining experience in the area.
  
  ##
- 
+ <br>
  <div>
   <a href="https://github.com/DiegoSobral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoSobral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
