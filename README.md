@@ -1,4 +1,4 @@
-<gif align="right" width="445" height="345" https://assets.pinterest.com/ext/embed.html?id=26247610321807578">
+<img align="right" width="400" height="280" src=https://i.pinimg.com/originals/29/89/dd/2989dde3aadd54c8e1998ba193bc2fbf.gif>
 
 # Welcome! :pushpin:	
 
